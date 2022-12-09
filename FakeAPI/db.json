@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Shelvia",
+      "email": "Shelvia@email.com",
+      "bidang": "Recruiter",
+      "id": 2
+    },
+    {
+      "name": "Elisa",
+      "email": "Elisa@email.com",
+      "bidang": "Guru TK",
+      "id": 4
+    },
+    {
+      "name": "Oma",
+      "email": "Oma@email.com",
+      "bidang": "Ibu rumah tangga",
+      "id": 5
+    }
+  ]
+}
